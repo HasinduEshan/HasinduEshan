@@ -7,9 +7,8 @@
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native and Flutter. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
 🎓 Education and Certifications:
-- Bachelor of Computer Science (Ongoing)
+- Bachelor of Information Technology (UG) - UCSC
 - Comprehensive Master Java Developer Diploma - IJSE
-- Graduate Diploma in Software Engineering - IJSE (Ongoing)
 - ICET Certified Master Program - ICET
 - Advanced Level in Physical Science Stream - Mahinda College, Galle (2020)
 
